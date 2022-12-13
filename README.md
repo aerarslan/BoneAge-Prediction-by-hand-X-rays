@@ -4,4 +4,4 @@ In this project, 2 training files exist. They can be used to train models via us
 
 "test_all.py" can be run after downloading the models to evaluate the predictions of all models.
 
-## [Paper](http://dx.doi.org/10.13140/RG.2.2.19098.11205)
+## [See Paper](http://dx.doi.org/10.13140/RG.2.2.19098.11205)
